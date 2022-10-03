@@ -1,1 +1,3 @@
-# DF_Case_Report
+# Digital Forensics Case Report
+
+A project which required a thorough analysis of a hard drive image and document the findings as a court report. The investigation was coduncted with a wide variety of tools to identify the possetion of illicit material and ways the suspect attempted to delete/hide them. The report included a complete list of all identified materials, their hashes and locations. Furthermore, a complete analysis of the suspect's communications and web traffic (time spent in page, day and time of visit, traversal to other websites through ads/hyperlinks) was documented in the findings.
