@@ -8,7 +8,7 @@ I worked on a project involving the thorough analysis of a hard drive image, doc
 
  2. Project Involving Hard Drive Image Analysis:
     - Worked on a project involving the thorough analysis of a hard drive image, documenting findings in a court report.
-    = The investigation used a variety of tools to uncover illicit material and trace how the suspect attempted to delete or conceal it.
+    - The investigation used a variety of tools to uncover illicit material and trace how the suspect attempted to delete or conceal it.
 
  3. Illicit Material Identification:
     - Compiled a list of all identified files, including file hashes and exact storage locations.
