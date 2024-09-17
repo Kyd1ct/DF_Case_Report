@@ -1,3 +1,25 @@
 # Digital Forensics Case Report
 
-A project which required a thorough analysis of a hard drive image and document the findings as a court report. The investigation was coduncted with a wide variety of tools to identify the possetion of illicit material and ways the suspect attempted to delete/hide them. The report included a complete list of all identified materials, their hashes and locations. Furthermore, a complete analysis of the suspect's communications and web traffic (time spent in page, day and time of visit, traversal to other websites through ads/hyperlinks) was documented in the findings.
+I worked on a project involving the thorough analysis of a hard drive image, documenting the findings in a court report. The investigation used a variety of tools to uncover illicit material and trace how the suspect attempted to delete or conceal it.
+
+Utilization of Multiple Tools:
+
+    Utilized various tools including Foremost for carving files hidden within files, HxD, Sleuthkit tools, Autopsy, and John the Ripper (for cracking an encryption key on a zip file with illicit data).
+    Conducted analysis covering registry, browser, email, software prefetch, and file analysis, with some tasks performed using FRED (Forensic Registry Editor).
+
+Project Involving Hard Drive Image Analysis:
+
+    Worked on a project involving the thorough analysis of a hard drive image, documenting findings in a court report.
+    The investigation used a variety of tools to uncover illicit material and trace how the suspect attempted to delete or conceal it.
+
+Illicit Material Identification:
+
+    Compiled a list of all identified files, including file hashes and exact storage locations.
+
+Communication & Web Traffic Analysis:
+
+    Tracked communication history and interactions.
+    Monitored web activity, including:
+        Time spent on each page.
+        Dates and times of visits.
+        Navigation through ads and hyperlinks to other sites.
